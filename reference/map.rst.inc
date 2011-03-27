@@ -9,7 +9,7 @@
   * :doc:`WebProfilerBundle (web_profiler) </reference/bundle_configuration/WebProfilerBundle>`
   * :doc:`ZendBundle (zend) </reference/bundle_configuration/ZendBundle>`
 
-* :doc:`Form Field Reference</book/forms/fields/index>`
+* :doc:`Form Type Reference</reference/forms/types>`
 * :doc:`/reference/constraints`
 * :doc:`/reference/dic_tags`
 * :doc:`/reference/YAML`

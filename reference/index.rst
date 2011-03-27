@@ -9,5 +9,6 @@ Reference Documents
     bundle_configuration/DoctrineBundle
     bundle_configuration/TwigBundle
     constraints
+    forms/types
 
 .. include:: map.rst.inc
